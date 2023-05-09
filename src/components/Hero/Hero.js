@@ -17,7 +17,9 @@ const Hero = (props) => (
       </SectionTitle>
       <SectionText>
         I am a Front End Web Developer with a passion for building aesthetically
-        beautiful & functional web applications.
+        beautiful & functional web applications. I also love consuming
+        information from (Application Programming Interfaces) APIs and designing
+        their data.
       </SectionText>
       <Button
         onClick={() => (window.location = "mailto:andreyhuey777@gmail.com")}
