@@ -62,12 +62,12 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2018, text: "Started my journey" },
-  { year: 2019 - 2020, text: "Worked as a freelance wordpress developer" },
+  { year: 2019, text: "Started my journey" },
+  { year: 2020, text: "Worked as a freelance wordpress developer" },
   { year: 2021, text: "Started technical Front Web End Development" },
   {
     year: 2022,
-    text: "Gained FreeCodeCamp Front End Libraries Certifications & Brainnest Front End Industry Training",
+    text: "Certifications & Licenses For Front End Development",
   },
   { year: 2023, text: "Employed as a Front End Developer In 2 Companies" },
 ];
